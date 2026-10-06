@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "PushUp Counter",
+  "short_name": "PushUps",
+  "description": "A minimalist, nose-tap push-up counter built for mobile floor workouts.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080a0e",
+  "theme_color": "#080a0e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
