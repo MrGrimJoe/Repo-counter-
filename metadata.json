@@ -1,6 +1,0 @@
-{
-  "name": "PushUp Counter",
-  "description": "A minimalist, nose-tap push-up counter built for mobile floor workouts.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
